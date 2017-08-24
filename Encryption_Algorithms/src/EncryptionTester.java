@@ -16,7 +16,7 @@ public class EncryptionTester
 	{
 		// TODO Auto-generated method stub
 		Encryption test = new Encryption();
-		System.out.println(test.encrypt("HELLO"));
+		System.out.println(test.encrypt("Then head to Port Authority to get some pie"));
 		System.out.println(test.decrypt("GDKKN"));
 	}
 
